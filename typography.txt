@@ -1,0 +1,67 @@
+{
+  "typography": {
+    "headings": {
+      "hero_header": {
+        "font_family": "Nunito",
+        "weight": 700,
+        "style": "Bold",
+        "size": "56px",
+        "line_height": "130%",
+        "letter_spacing": "0%",
+        "alignment": "center"
+      },
+      "heading_2": {
+        "font_family": "Nunito",
+        "weight": 600,
+        "style": "SemiBold",
+        "size": "40px",
+        "line_height": "150%",
+        "letter_spacing": "3%"
+      }
+    },
+    "subtitles": {
+      "subtitle_2_semibold": {
+        "font_family": "Nunito Sans",
+        "weight": 600,
+        "style": "SemiBold",
+        "size": "18px",
+        "line_height": "150%",
+        "alignment": "center"
+      },
+      "subtitle_2_regular": {
+        "font_family": "Nunito Sans",
+        "weight": 400,
+        "style": "Regular",
+        "size": "18px",
+        "line_height": "150%",
+        "alignment": "center"
+      }
+    },
+    "body": {
+      "body_text_16_semibold": {
+        "font_family": "Nunito Sans",
+        "weight": 600,
+        "style": "SemiBold",
+        "size": "16px",
+        "line_height": "150%"
+      },
+      "body_text_16_regular": {
+        "font_family": "Nunito Sans",
+        "weight": 400,
+        "style": "Regular",
+        "size": "16px",
+        "line_height": "150%"
+      }
+    },
+    "secondary": {
+      "secondary_text_14_semibold": {
+        "font_family": "Nunito Sans",
+        "weight": 600,
+        "style": "SemiBold",
+        "size": "14px",
+        "line_height": "150%",
+        "alignment": "center"
+      }
+    }
+  }
+}
