@@ -14,7 +14,15 @@ const config: Config = {
         nunito: ["Nunito", "sans-serif"],
         nunitoSans: ["Nunito Sans", "sans-serif"],
       },
-
+     colors: {  
+        primary: "#571244",
+        secondary: "#EF4353",
+        white: "#FFFFFF",
+      },
+    textColor: {
+        Main: "#151515",
+      }
+      ,
       fontSize: {
         hero: ["56px", { lineHeight: "130%" }],
         h2: ["40px", { lineHeight: "150%" }],
@@ -23,7 +31,9 @@ const config: Config = {
         body: ["16px", { lineHeight: "150%" }],
         secondary: ["14px", { lineHeight: "150%" }],
       },
+Button:{
 
+    },
       letterSpacing: {
         normal: "0em",
         wide: "0.03em",
